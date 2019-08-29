@@ -17,14 +17,14 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has README.md as a tracked file",
       "fullTitle": "the local repository has README.md as a tracked file",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -79,14 +79,14 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has README.md as a tracked file",
       "fullTitle": "the local repository has README.md as a tracked file",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
