@@ -31,14 +31,14 @@
     {
       "title": "has at least one commit",
       "fullTitle": "the local repository has at least one commit",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has been pushed up to the remote repository",
       "fullTitle": "the local repository has been pushed up to the remote repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "stack": "TypeError: Cannot read property 'passes' of undefined\n    at /Users/justinebricknell/git-basics-lab-v-000/node_modules/mocha-multi/mocha-multi.js:165:14\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.<anonymous> (node_modules/mocha-multi/mocha-multi.js:164:7)\n    at processImmediate (internal/timers.js:439:21)",
@@ -52,7 +52,7 @@
     {
       "title": "has been pushed up to the remote repository",
       "fullTitle": "the local repository has been pushed up to the remote repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "stack": "TypeError: Cannot read property 'passes' of undefined\n    at /Users/justinebricknell/git-basics-lab-v-000/node_modules/mocha-multi/mocha-multi.js:165:14\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.<anonymous> (node_modules/mocha-multi/mocha-multi.js:164:7)\n    at processImmediate (internal/timers.js:439:21)",
@@ -93,14 +93,14 @@
     {
       "title": "has at least one commit",
       "fullTitle": "the local repository has at least one commit",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has been pushed up to the remote repository",
       "fullTitle": "the local repository has been pushed up to the remote repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "stack": "TypeError: Cannot read property 'passes' of undefined\n    at /Users/justinebricknell/git-basics-lab-v-000/node_modules/mocha-multi/mocha-multi.js:165:14\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.<anonymous> (node_modules/mocha-multi/mocha-multi.js:164:7)\n    at processImmediate (internal/timers.js:439:21)",
