@@ -29,15 +29,15 @@ This lesson will include all the steps necessary to submit your lab work to Lear
 
 To start work on this lab, while on Learn.co, click the "Open IDE" button.
 
-> If you are using the in-browser Learn IDE, the IDE will open on the page
+> If you are using the in-browser Learn IDE, the IDE will open on the page.
 
 > If you are using the Learn IDE on your computer, the IDE should open
-> automatically
+> automatically.
 
 > If you are using your own local environment set up, you will need to manually
-> fork and clone this lesson. Click on the GitHub button next to "Open IDE" to
+> fork and clone this lesson. Click on the GitHub button next to "OPEN IDE" to
 > visit this lab's repository. Once there, create a personal fork of the repo
-> and clone it down
+> and clone it down.
 
 Once you've got the lesson open, run `learn` in the command line. Six failed
 tests should print out, starting with this:
