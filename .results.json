@@ -10,7 +10,7 @@
     {
       "title": "has a valid git repository initialized for the my-repository folder",
       "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -72,7 +72,7 @@
     {
       "title": "has a valid git repository initialized for the my-repository folder",
       "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
