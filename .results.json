@@ -3,14 +3,14 @@
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has a valid git repository initialized for the my-repository folder",
       "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -24,7 +24,7 @@
     {
       "title": "has README.md as a tracked file",
       "fullTitle": "the local repository has README.md as a tracked file",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -65,14 +65,14 @@
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has a valid git repository initialized for the my-repository folder",
       "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -86,7 +86,7 @@
     {
       "title": "has README.md as a tracked file",
       "fullTitle": "the local repository has README.md as a tracked file",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
