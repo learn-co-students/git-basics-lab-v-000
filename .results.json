@@ -1,0 +1,112 @@
+{
+  "tests": [
+    {
+      "title": "has a folder named my-repository",
+      "fullTitle": "this lab has a folder named my-repository",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a valid git repository initialized for the my-repository folder",
+      "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a README.md file in the my-repository folder",
+      "fullTitle": "this lab has a README.md file in the my-repository folder",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has README.md as a tracked file",
+      "fullTitle": "the local repository has README.md as a tracked file",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has at least one commit",
+      "fullTitle": "the local repository has at least one commit",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has been pushed up to the remote repository",
+      "fullTitle": "the local repository has been pushed up to the remote repository",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "TypeError: Cannot read property 'passes' of undefined\n    at /Users/danieletter/git-basics-lab-v-000/node_modules/mocha-multi/mocha-multi.js:165:14\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.<anonymous> (node_modules/mocha-multi/mocha-multi.js:164:7)\n    at processImmediate (internal/timers.js:439:21)",
+        "message": "Cannot read property 'passes' of undefined",
+        "uncaught": true
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "has been pushed up to the remote repository",
+      "fullTitle": "the local repository has been pushed up to the remote repository",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "TypeError: Cannot read property 'passes' of undefined\n    at /Users/danieletter/git-basics-lab-v-000/node_modules/mocha-multi/mocha-multi.js:165:14\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.<anonymous> (node_modules/mocha-multi/mocha-multi.js:164:7)\n    at processImmediate (internal/timers.js:439:21)",
+        "message": "Cannot read property 'passes' of undefined",
+        "uncaught": true
+      }
+    }
+  ],
+  "passes": [
+    {
+      "title": "has a folder named my-repository",
+      "fullTitle": "this lab has a folder named my-repository",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a valid git repository initialized for the my-repository folder",
+      "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a README.md file in the my-repository folder",
+      "fullTitle": "this lab has a README.md file in the my-repository folder",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has README.md as a tracked file",
+      "fullTitle": "the local repository has README.md as a tracked file",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has at least one commit",
+      "fullTitle": "the local repository has at least one commit",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has been pushed up to the remote repository",
+      "fullTitle": "the local repository has been pushed up to the remote repository",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "TypeError: Cannot read property 'passes' of undefined\n    at /Users/danieletter/git-basics-lab-v-000/node_modules/mocha-multi/mocha-multi.js:165:14\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.<anonymous> (node_modules/mocha-multi/mocha-multi.js:164:7)\n    at processImmediate (internal/timers.js:439:21)",
+        "message": "Cannot read property 'passes' of undefined",
+        "uncaught": true
+      }
+    }
+  ]
+}
