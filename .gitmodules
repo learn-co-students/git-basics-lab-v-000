@@ -1,0 +1,3 @@
+[submodule "my-repository"]
+	path = my-repository
+	url = git@github.com:natedogg2090/git-basics-lab-v-000.git
