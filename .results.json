@@ -3,7 +3,7 @@
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -65,7 +65,7 @@
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
