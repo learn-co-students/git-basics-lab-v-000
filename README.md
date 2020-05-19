@@ -16,7 +16,7 @@ needed to do was read through each lesson and continue on. This lesson, however,
 is considered a _lab_. Labs are exercises that have some written content to
 guide you, but also contain _tests_ that must be passed in order to complete
 the lesson.
-
+ my-reposito
 Now that you've learned about Git version control, in this lab, we're going to
 go through the entire process of creating a local Git repository, creating an
 initial commit and pushing that work to a remote repo stored on
