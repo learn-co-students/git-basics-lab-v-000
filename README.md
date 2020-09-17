@@ -1,4 +1,4 @@
-# Git Basics Lab
+learn# Git Basics Lab
 
 ## Learning Goals
 
@@ -81,7 +81,7 @@ tests to let us know when we're all done.
 ## Instructions
 
 > ***IMPORTANT TIPS TO AVOID GETTING STUCK***
-> 
+>
 > 1. The work you will do to set up the Git repository will be done in the
 >    `my-repository` directory (after you create it ;)). If you're doing `git`
 >    commands in the same directory as THIS `README` that you're reading right
@@ -190,5 +190,3 @@ work!
 [pr]: https://help.github.com/en/articles/about-pull-requests
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
-
-
