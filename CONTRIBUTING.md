@@ -1,3 +1,20 @@
+#Requirements
+  *this lab
+    1) has a folder named my-repository
+    2) has a valid git repository initialized for the my-repository folder
+    3) has a README.md file in the my-repository folder
+
+  *the local repository
+    4) has README.md as a tracked file
+    5) has at least one commit
+    6) has been pushed up to the remote repository
+
+
+
+
+
+
+
 # Contributing to Learn.co Curriculum
 
 We're really exited that you're about to contribute to the [open curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co). If this is your first time contributing, please continue reading to learn how to make the most meaningful and useful impact possible.
